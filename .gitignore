@@ -1,0 +1,9 @@
+# 原始数据集（从 https://github.com/ruan-narici/brazilian-ecommerce-analytics 克隆，公开数据，不纳入仓库）
+brazilian-ecommerce-analytics/
+
+# IDE
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
